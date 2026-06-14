@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+temp_ocr.png
+global_translator.log
+settings.json
+.venv/
+venv/
+dist/
+build/
+installer_output/
+*.spec
+*.log
+ocr_*.png
+last_ocr_*.png
+assets/easyocr_models/
