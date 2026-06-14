@@ -127,4 +127,4 @@ OCR ozelligi ekran goruntusu alir. Anti-cheat kullanan oyunlarda risk almamak ic
 
 ## Lisans
 
-Bu proje icin lisans henuz belirlenmedi. Acik kaynak yayinlamadan once bir lisans dosyasi eklenmesi onerilir.
+Bu proje MIT lisansi ile yayinlanmistir. Detaylar icin `LICENSE` dosyasina bakin.
